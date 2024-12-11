@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.small,
+.bold{
+    color: black;
+    background-color: pink;
+}
+
+.bold{
+    font-size: 24px;
+}
+
+
+#ID-1{
+    color: blue;
+    font-size: 36px;
+}
+
+#ID-2{
+    background-color: green;
+    color: black;
+}
