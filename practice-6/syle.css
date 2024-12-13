@@ -1,0 +1,26 @@
+.p{
+    font-size: 24px;
+    color: black;
+}
+
+.p .bold{
+    font-size: 34px;;
+}
+
+.p.small-bold{
+    font-size: 18px;
+}
+
+.p #confirm{
+    background-color: green;
+    color: white;
+}
+
+.p #cancel{
+    background-color: white;
+}
+
+.p.normal{
+    font-size: 24px;
+}
+
