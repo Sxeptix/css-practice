@@ -1,10 +1,10 @@
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background-color: bisque;
     color: purple;
-    font-size: 32px;
+    font-size: 16px;
     flex-wrap: wrap;
 }
 
@@ -15,5 +15,5 @@
 .logo{
     background-color: white;
     color: orange;
-    font-size: 45px;
+    font-size: 32px;
 }
