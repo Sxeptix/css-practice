@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    color: purple;
+    font-size: 32px;
+    flex-wrap: wrap;
+}
+
+.box{
+    background-color: white;
+}
+
+.logo{
+    background-color: white;
+    color: orange;
+    font-size: 45px;
+}
